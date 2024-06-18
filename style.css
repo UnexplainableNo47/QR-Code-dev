@@ -30,7 +30,7 @@
     height: 30vh;
     margin-bottom: 20px;
     position: relative;
-    background-image: url(/img/image-qr-code.png);
+    background-image: url(image-qr-code.png);
     background-position: center;
     background-size: cover;
 }
